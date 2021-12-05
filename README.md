@@ -12,6 +12,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janaprateem1409)](https://github.com/janaprateem1409/github-readme-stats)
 
-
-
-
