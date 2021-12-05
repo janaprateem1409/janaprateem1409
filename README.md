@@ -10,9 +10,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janaprateem1409&theme=radical)](https://github.com/janaprateem1409/github-readme-streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janaprateem1409)](https://github.com/janaprateem1409/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janaprateem1409&layout=compact)](https://github.com/janaprateem1409/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=janaprateem1409)](https://github.com/janaprateem1409/github-readme-stats)
 
 
