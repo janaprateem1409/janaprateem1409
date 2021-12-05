@@ -8,4 +8,4 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=janaprateem1409&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janaprateem1409&theme=dark)](https://github.com/janaprateem1409/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janaprateem1409&radical)](https://github.com/janaprateem1409/github-readme-streak-stats)
